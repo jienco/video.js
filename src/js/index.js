@@ -1,3 +1,3 @@
 import videojs from './video';
-import '@videojs/http-streaming';
+import '@jienco/http-streaming';
 export default videojs;
